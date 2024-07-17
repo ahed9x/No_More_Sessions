@@ -10,3 +10,10 @@ This Automation Tool is a Tkinter-based GUI application designed to automate mou
 - **Automated Clicking**: Automates clicking on specified images if found on the screen.
 - **Responsive GUI**: Runs automation in a separate thread to keep the GUI responsive.
 
+## Requirements
+- Python 3.x
+- `tkinter`
+- `pyautogui`
+- `Pillow`
+- `pynput`
+
