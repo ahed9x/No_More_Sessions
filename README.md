@@ -1,3 +1,4 @@
+![Apache License 2.0](https://img.shields.io/badge/license-Apache%202.0-blue.svg)
 # Automation Tool
 keep sessions opened, no more session ending!!!
 ## Overview
