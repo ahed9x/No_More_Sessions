@@ -17,3 +17,8 @@ This Automation Tool is a Tkinter-based GUI application designed to automate mou
 - `Pillow`
 - `pynput`
 
+## Installation
+1. Install Python 3.x from the [official website](https://www.python.org/).
+2. Install the required libraries using pip:
+   ```bash
+   pip install pyautogui Pillow pynput
